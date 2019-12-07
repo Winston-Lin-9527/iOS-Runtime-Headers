@@ -1,0 +1,17 @@
+#import <SiriAudioSupport/SiriAudioSupport.SAASSelectedAppSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASNowPlayingStateSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASSpotlightSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASNowPlayingAppSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAMPPlaybackService.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASSupportedMediaSignal.h>
+#import <SiriAudioSupport/SAHConnection.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASIntentMediaSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAMPSearchService.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASAppUsageSignal.h>
+#import <SiriAudioSupport/SAASSignals.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAMPPlaybackStore.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASSiriRemembersSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASUserContextSignal.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAASLastNowPlaying.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAMPPlaybackRadio.h>
+#import <SiriAudioSupport/SiriAudioSupport.SAMPSubscriptionService.h>

@@ -1,0 +1,3 @@
+#import <AMSAccountSyncNotificationPlugin/AMSSyncAccountFlagsResult.h>
+#import <AMSAccountSyncNotificationPlugin/AMSAccountSyncNotificationPlugin.h>
+#import <AMSAccountSyncNotificationPlugin/AMSSyncAccountFlagsTask.h>

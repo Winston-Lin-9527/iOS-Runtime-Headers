@@ -1,0 +1,12 @@
+#import <LoginKit/LKNamingSimilarity.h>
+#import <LoginKit/LKLoginSupport.h>
+#import <LoginKit/LKLoginController.h>
+#import <LoginKit/LKStartupSupport.h>
+#import <LoginKit/LKUser.h>
+#import <LoginKit/LKUsers.h>
+#import <LoginKit/LKClassGroup.h>
+#import <LoginKit/LKLogoutSupport.h>
+#import <LoginKit/LKClass.h>
+#import <LoginKit/LKClasses.h>
+#import <LoginKit/LKClassConfiguration.h>
+#import <LoginKit/LKError.h>
